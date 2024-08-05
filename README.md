@@ -4,7 +4,7 @@
 
 Our TUT dataset contains 1408 RGB images, of which the training, validation, and test sets contain 987, 139, and 282 images, respectively, which cover eight scenarios including bitumen, cement, bricks, plastic runways, tiles, metal materials, generator blades, and underground pipelines. The performance of the crack segmentation model is comprehensively evaluated using our dataset.
 
-![TUT Dataset](https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/TUT%20Dataset.png)
+![TUT Dataset](./Preview.png)
 
 ## Folder structure
 
