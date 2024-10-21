@@ -29,7 +29,7 @@ Our TUT dataset contains 1408 RGB images, of which the training, validation, and
 
 ## 🕹️Get TUT Dataset
 
-Download our TUT dataset via the Google Driver link: [Download Now!](https://drive.google.com/file/d/1A-LOJzY-KLsrNCBF8MerqflGCKoiBKF "TUT")。
+Download our TUT dataset via the Google Driver link: [Download Now!](https://drive.google.com/file/d/1A-LOJzY-KLsrNCBF8MerqflGCKoiBKF-/view "TUT")。
 
 
 ## 📟Contact
