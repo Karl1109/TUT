@@ -36,24 +36,4 @@ Download our TUT dataset via the Google Driver link: [Download Now!](https://dri
 
 Any questions, please contact the email at liuhui1109@stud.tjut.edu.cn
 
-## 📌BibTeX & Citation
 
-If you find this code useful, please consider citing our work:
-
-```
-@article{liu2024staircase,
-  title={Staircase Cascaded Fusion of Lightweight Local Pattern Recognition and Long-Range Dependencies for Structural Crack Segmentation},
-  author={Liu, Hui and Jia, Chen and Shi, Fan and Cheng, Xu and Wang, Mianzhao and Chen, Shengyong},
-  journal={arXiv preprint arXiv:2408.12815},
-  year={2024}
-}
-```
-```
-@article{cheng2023selective,
-  title={Selective feature fusion and irregular-aware network for pavement crack detection},
-  author={Cheng, Xu and He, Tian and Shi, Fan and Zhao, Meng and Liu, Xiufeng and Chen, Shengyong},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2023},
-  publisher={IEEE}
-}
-```
